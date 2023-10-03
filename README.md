@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ANN-MARIA-TOMICHAN
-- 👀 I’m interested in coding and web/app development.
+- 👀 I’m interested in full stack development.
 - 🌱 I’m currently brushing my knowledge on Javascript
 - 📫 How to reach me ...<a href="https://www.linkedin.com/in/ann-maria-tomichan-1a635b255">LinkedIn</a>
 <!---
