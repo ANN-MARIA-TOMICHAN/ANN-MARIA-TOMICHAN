@@ -15,6 +15,11 @@ Node.js | Express.js
 **Database & Backend-as-a-Service:**  
 Firebase | Supabase
 
+**Languages**: 
+JavaScript | Python | C  
+
+**Other Tools**: 
+Git | GitHub
 ---
 
 ## 🚀 What I'm Working On
@@ -33,6 +38,12 @@ Currently focused on crafting full-stack applications that integrate well-design
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ann-maria-tomichan)  
+- 💼 [LinkedIn] 
 - 📧 Email: annmariatomichan@gmail.com
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ann_Maria_Tomichan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ann-maria-tomichan)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-annmariat-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/tomichan_ma)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-ann_maria-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/ann_tomichan/)
 
