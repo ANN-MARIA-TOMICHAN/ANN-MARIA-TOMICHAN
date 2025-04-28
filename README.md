@@ -7,19 +7,20 @@
 ## 💻 Tech Stack
 
 **Front-End:**  
-HTML | CSS | React.js | Angular | Tailwind CSS
+HTML | CSS | React.js | Angular | Tailwind CSS | Bootstrap |TypeScript |Bun | PostCSS | Radix UI | React Router | React Query | React Hook Form + Zod | Recharts | jsPDF
 
 **Back-End:**  
 Node.js | Express.js
 
 **Database & Backend-as-a-Service:**  
-Firebase | Supabase
+Firebase | Supabase PostgreSQL Database
+
 
 **Languages**: 
 JavaScript | Python | C  
 
-**Other Tools**: 
-Git | GitHub
+**Tools & Utilities**: 
+Git | GitHub | ESLint (Linting and Code Style) | Vite (Build Tool) | Chatbot integration using Dialogflow or OpenAI | Calendar view for bookings | 
 ---
 
 ## 🚀 What I'm Working On
@@ -32,7 +33,8 @@ Currently focused on crafting full-stack applications that integrate well-design
 
 - Advanced JavaScript & the React ecosystem  
 - Database management and optimization strategies  
-- Microservices architecture & scalable backend solutions  
+- Microservices architecture & scalable backend solutions
+- AI and ML 
 
 ---
 
