@@ -6,14 +6,7 @@
 
 ## 💻 Tech Stack
 
-**Front-End:**  
-HTML | CSS | React.js | Angular | Tailwind CSS | Bootstrap |TypeScript |Bun | PostCSS | Radix UI | React Router | React Query | React Hook Form + Zod | Recharts | jsPDF
-
-**Back-End:**  
-Node.js | Express.js
-
-**Database & Backend-as-a-Service:**  
-Firebase | Supabase PostgreSQL Database
+MERN Stack | MEAN Stack | Firebase | Supabase PostgreSQL Database
 
 
 **Languages**: 
@@ -31,8 +24,7 @@ Currently focused on crafting full-stack applications that integrate well-design
 
 ## 🌱 What I’m Learning
 
-- Advanced JavaScript & the React ecosystem  
-- Database management and optimization strategies  
+- Advanced J 
 - Microservices architecture & scalable backend solutions
 - AI and ML 
 
