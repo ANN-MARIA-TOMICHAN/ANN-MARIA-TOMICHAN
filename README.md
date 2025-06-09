@@ -4,28 +4,19 @@
 
 ---
 
-### 🚀 Tech Stack & Tools
+### 🚀 Tech Stack
 
-#### **Frameworks & Platforms**
-![MERN Stack](https://img.shields.io/badge/-MERN%20Stack-3e863d?style=flat&logo=mongodb)
-![MEAN Stack](https://img.shields.io/badge/-MEAN%20Stack-e34f26?style=flat&logo=angular)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
-
-#### **Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-
-#### **Tools & Utilities**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai)
-![Dialogflow](https://img.shields.io/badge/-Dialogflow-FF9800?style=flat&logo=dialogflow)
-![Calendar View](https://img.shields.io/badge/-Calendar%20View-4285F4?style=flat&logo=googlecalendar)
 
 
 ## 📫 Get in Touch
